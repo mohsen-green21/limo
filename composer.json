@@ -1,6 +1,10 @@
 {
     "name": "mohsen/limo",
+    "type":"library",
     "description": "jjj",
+     "keywords": ["log","logging"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
     "authors": [
         {
             "name": "mohsen baghri",
