@@ -18,11 +18,5 @@
         }
     },
 
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mohsen-green21/limo.git"
-        }
-    ]
-}
+    
 }
