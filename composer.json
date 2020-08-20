@@ -21,7 +21,12 @@
         "psr-4": {
             "Limo\\":"src/"
         }
-    }
+    },
+    {
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
 
     
 }
