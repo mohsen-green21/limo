@@ -1,0 +1,28 @@
+{
+    "name": "mohsen/limo",
+    "description": "jjj",
+    "authors": [
+        {
+            "name": "mohsen baghri",
+            "email": "baghrimohsen21@gmail.com"
+             
+    
+        }
+    
+    ],
+    
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Limo\\":"src/"
+        }
+    },
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mohsen-green21/limo.git"
+        }
+    ]
+}
+}
